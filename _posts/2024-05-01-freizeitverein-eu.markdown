@@ -10,6 +10,8 @@ tags: [VereinsWesen, FreizeitVerein]
 Die Seite wurde mit UIkit, LESS und jQuery realisiert. Responsive Design und kurze Ladezeiten waren hierbei
 sehr wichtig. Desweiteren wurde auf groesstmoegliche Barrierefreiheit grosser Wert gelegt.
 
+CI/CD wurden selbst entwickelt.
+
 ## Die Letzte Ueberpruefung
 >... fand am 01. Mai 2024 statt.
 
