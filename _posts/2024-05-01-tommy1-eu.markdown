@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tommy 1 - Webseite
-date: 2024-05-01
+date: 2024-05-01 18:50:00 +0200
 description: Diese Seite wurde mit Wordpress 6 gestaltet.
 img: tommy1.eu.png
 fig-caption: https://Tommy1.eu
