@@ -12,10 +12,11 @@ sehr wichtig. Desweiteren wurde auf groesstmoegliche Barrierefreiheit grosser We
 
 ## Die Letzte Ueberpruefung
 >... fand am 01. Mai 2024 statt.
-*Die Seite selbst ist fertig und aktuell.
-*Die Kontaktdaten wurden kontrolliert.
-*Eine web.dev Ueberpruefung wurde durchgefuehrt und das Ergebnis ist sehr zufriedenstellend.
-*Die verlinkten Seiten und Adressen sind teilweise nicht mehr aktuell. Hier sollte nachgebessert werden.
+
+* Die Seite selbst ist fertig und aktuell.
+* Die Kontaktdaten wurden kontrolliert.
+* Eine web.dev Ueberpruefung wurde durchgefuehrt und das Ergebnis ist sehr zufriedenstellend.
+* Die verlinkten Seiten und Adressen sind teilweise nicht mehr aktuell. Hier sollte nachgebessert werden.
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
 
