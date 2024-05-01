@@ -7,6 +7,9 @@ img: hut.egalite.or.at.png
 fig-caption: https://HuT.egalite.or.at
 tags: [VereinsWesen, HuT]
 ---
+<img src="https://hut.egalite.or.at/favicon.ico" alt="HuT - Logo">
+HuT - Homosexualualität und Tradition
+<br>|<br>
 Fuer diese Seite wurde Bootstrap 5 verwendet. Wie ueblich war es das erklaerte Ziel responsive Design unzusetzen.
 Ausserdem ging es auch darum die Seite maximal reaktionsschnell zu designen ... was auch gelang.
 
