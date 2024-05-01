@@ -8,7 +8,8 @@ fig-caption: https://égalité.eu
 tags: [VereinsWesen, égalité]
 ---
 <img src="https://www.xn--galit-9raf.eu/favicon.ico" alt="égalité - Logo">
-égalité - Gesellschaft für Gleichbehandlungs-Angelegenheiten<br>|<br>
+égalité - Gesellschaft für Gleichbehandlungs-Angelegenheiten
+<br>|<br>
 Fuer diese Seite wurde Bootstrap 5 verwendet. Es war das erklaerte Ziel responsive Design umzusetzen.
 Ausserdem ging es darum die Seite maximal reaktionsschnell zu designen ... was auch gelang.
 
