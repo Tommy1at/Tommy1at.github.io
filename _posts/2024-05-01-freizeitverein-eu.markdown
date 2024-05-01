@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FreizeitVerein - Webseite
-date: 2024-05-01
+date: 2024-05-01 19:00:00 +0200
 description: Die Seite wurde mit UIkit, LESS und jQuery realisiert.
 img: freizeitverein.eu.png
 fig-caption: https://FreizeitVerein.eu
