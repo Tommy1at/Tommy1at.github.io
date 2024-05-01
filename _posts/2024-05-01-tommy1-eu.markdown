@@ -2,12 +2,12 @@
 layout: post
 title: Tommy 1 - Webseite
 date: 2024-05-01
-description: Diese Seite wurde mit Wordpress6 gestaltet.
+description: Diese Seite wurde mit Wordpress 6 gestaltet.
 img: tommy1.eu.png
 fig-caption: https://Tommy1.eu
 tags: [PrivateProjekte, Tommy]
 ---
-Diese Seite wurde mit Wordpress6 gestaltet. Hierbei soll es um einen persoenlichen Einblick in mein Leben gehen; 
+Diese Seite wurde mit Wordpress 6 gestaltet. Hierbei soll es um einen persoenlichen Einblick in mein Leben gehen; 
 Wanderungen, Wein, Veranstaltungen und mehr. Responsive Design war bei der Konzeptionierung natuerlich Pflicht. Leider ist die Seite aus Mangel an Zeit nicht aktuell.
 
 ## Die Letzte Ueberpruefung
