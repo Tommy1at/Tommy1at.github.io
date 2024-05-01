@@ -7,6 +7,9 @@ img: freizeitverein.eu.png
 fig-caption: https://FreizeitVerein.eu
 tags: [VereinsWesen, FreizeitVerein]
 ---
+<img src="https://www.freizeitverein.net//favicon.ico" alt="FreizeitVerein - Logo">
+FreizeitVerein
+<br>|<br>
 Die Seite wurde mit UIkit, LESS und jQuery realisiert. Responsive Design und kurze Ladezeiten waren hierbei
 sehr wichtig. Desweiteren wurde auf groesstmoegliche Barrierefreiheit grosser Wert gelegt.
 
