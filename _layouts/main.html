@@ -37,9 +37,14 @@ layout: default
           <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
         {% endif %}
         {% if site.social-icq %}
-          <li class="icq"><a href="https://icq.com/in/{{site.social-icq}}" target="_blank"><i class="fa fa-icq"></i></a></li>
+          <li class="icq"><a href="https://icq.com/{{site.social-icq}}" target="_blank"><i class="fa fa-icq"></i></a></li>
         {% else %}
           <li class="icq"><a href="https://icq.com/" target="_blank"><i class="fa fa-icq" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if site.social-icq %}
+          <li class="skype"><a href="https://skype.com/{{site.social-skype}}" target="_blank"><i class="fa fa-skype"></i></a></li>
+        {% else %}
+          <li class="skype"><a href="https://skype.com/" target="_blank"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
         {% endif %}
         {% if site.social-email %}
           <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
