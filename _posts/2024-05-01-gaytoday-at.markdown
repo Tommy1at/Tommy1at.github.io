@@ -7,6 +7,9 @@ img: gaytoday.at.png
 fig-caption: https://GayToday.at
 tags: [VereinsWesen, GayToday]
 ---
+<img src="https://gaytoday.at//favicon.ico" alt="GayToday - Logo">
+GayToday - magazine for queer information
+<br>|<br>
 Die Seite wurde mit Joomla 4 realisiert. Responsive Design (Mobile First) war ein entscheidender Faktor bei
 der Konzeptionierung. Hauptaugenmerk wurde auf die Funktionalitaet der Seite gelegt.
 
