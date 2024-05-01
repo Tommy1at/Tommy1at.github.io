@@ -2,12 +2,12 @@
 layout: post
 title: GayToday - Streaming
 date: 2024-05-01
-description: Der Dienst wurde mittels Icecast2, OpenWRT, BusyBox, DDNS, Raspberry Pi 3b, Mixxx und iziCast realisiert.
+description: Der Dienst wurde mittels Icecast2, OpenWRT, BusyBox, DDNS, RaspberryPi, Mixxx und iziCast realisiert.
 img: stream.gaytoday.at.png
 fig-caption: https://Stream.GayToday.at
 tags: [VereinsWesen, GayToday]
 ---
-Der Dienst wurde mittels Icecast2, OpenWRT, busybox, DDNS, Raspberry Pi 3b, Mixxx und iziCast realisiert.
+Der Dienst wurde mittels Icecast2, OpenWRT, BusyBox, DDNS, RaspberryPi, Mixxx und iziCast realisiert.
 Die dauerhafte Bespielung mittels Playlisten sowie die automatisierten Uebergaben je nach Input sowie individuelle Intros waren eine entscheidende Frage bei der Konzeptionierung.
 
 CI/CD wurden selbst entwickelt.
