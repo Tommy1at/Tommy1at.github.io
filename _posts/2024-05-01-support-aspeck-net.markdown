@@ -18,7 +18,7 @@ CI/CD wurden selbst entwickelt.
 ## Die Letzte Ueberpruefung
 >... fand am 01. Mai 2024 statt.
 
-* Die Seite sist fertig und aktuell.
+* Die Seite ist fertig und aktuell.
 * Die Kontaktmoeglichkeiten wurden kontrolliert.
 * Eine web.dev Ueberpruefung wurde durchgefuehrt und das Ergebnis ist hervorragend.
 * Es sollte ueberlegt werden noch ein Impressum hinzuzufuegen. Auch wenn die Seite eigentlich fuer Bestandskunden gedacht ist.
