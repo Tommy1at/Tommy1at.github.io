@@ -1,0 +1,22 @@
+---
+layout: post
+title: Aspeck GmbH - Webseite
+date: 2024-05-01 18:50:00 +0200
+description: Diese Seite besteht aus purem HTML.
+img: aspeck.eu.png
+fig-caption: https://aspeck.eu
+tags: [UnternehmensProjekte, Aspeck GmbH]
+---
+<img src="" alt="Aspeck GmbH - Logo">
+Aspeck GmbH --- Industrie - und Wohnbau - Sanierung
+<br>|<br>
+Diese Seite besteht aus purem HTML. Grundsaetzlich ist das Projekt abgeschlossen da das Unternehmen nicht
+fortgefuehrt wurde. Die Seite war fertig. Die nunmehrige Seite ist quasi ein Placeholder (der aber aktuell keine Verwendung hat).
+
+## Die Letzte Ueberpruefung
+>... fand am 01. Mai 2024 statt.
+
+* Die Seite ist fertig.
+* Das Kontaktformular wurde entfernt (Impressum ist vorhanden).
+* Eine web.dev Ueberpruefung wurde durchgefuehrt und das Ergebnis ist recht zufriedenstellend.
+* Projekt ist abgeschlossen.
