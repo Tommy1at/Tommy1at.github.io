@@ -3,9 +3,9 @@ layout: post
 title: support@aspeck.net - Webseite
 date: 2024-05-01 20:00:00 +0200
 description: Ein Ticketing-System mit HESK 3 als Basis.
-img: gaytoday.at.png
-fig-caption: https://GayToday.at
-tags: [VereinsWesen, GayToday]
+img: support.aspeck.net.png
+fig-caption: https://support.aspeck.net
+tags: [UnternehmensProjekte, support@aspeck.net]
 ---
 <img src="https://support.aspeck.net/img/favicon/favicon.ico" alt="aspeck[dot]net - Logo">
 aspeck[dot]net :: Support Ticket System
