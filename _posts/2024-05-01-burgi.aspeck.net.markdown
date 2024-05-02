@@ -1,0 +1,22 @@
+---
+layout: post
+title: Burgis PhotoGalerie - Webseite
+date: 2024-05-01 18:50:00 +0200
+description: Diese Seite wurde mit Piwigo 14 erstellt.
+img: burgi.aspeck.net.png
+fig-caption: https://burgi.aspeck.net
+tags: [PrivateProjekte, Erinnerung an Burgi]
+---
+<img src="https://burgi.aspeck.net/themes/default/icon/favicon.ico" alt="Burgis PhotoGalerie - Logo">
+Burgis PhotoGalerie
+<br>|<br>
+Diese Seite wurde mit Piwigo 14 erstellt. Die Herausforderung an diesem Projekt war mehrere tausend Fotos
+verschiedener Formate Aufloesungen und Groessen zu harmonisieren und keine Information zu verlieren. Die Fotos wurden hernach optimiert und um Angaben (samt Hotspots) zu den abgebildeten Personen ergaenzt. Des weiteren wurde nicht nur nach Aufnahmezeitpunkt sondern (wo moeglich) nach Aufnahmeort katalogisiert. Zudem wurden Wasserzeichen erstellt. Ausserdem wurde eine Benutzerverwaltung installiert so, dass nur jene Personen welche auf einem Foto oder Video abgebildet sind darauf zugreifen koennen. Ausnahme sind Events mit mehreren Personen, dann haben alle teilgenommenen abgebildeten Personen auf alle Medien des Events Zugriff. Funktionen fuer den Download sowie teilen, bewerten und kommentieren wurden integriert.
+
+## Die Letzte Ueberpruefung
+>... fand am 01. Mai 2024 statt.
+
+* Die Seite ist fertig.
+* Das Kontaktformular findet sich im privaten Bereich (private Seite).
+* Eine web.dev Ueberpruefung wurde durchgefuehrt und das Ergebnis ist sehr zufriedenstellend.
+* Projekt ist abgeschlossen.
