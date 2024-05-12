@@ -1,7 +1,7 @@
 ---
 layout: post
 title: support@aspeck.net - Webseite
-date: 2024-05-01 20:00:00 +0200
+date: 2024-05-02 16:00:00 +0200
 description: Ein Ticketing-System mit HESK 3 als Basis.
 img: support.aspeck.net.png
 fig-caption: https://support.aspeck.net
