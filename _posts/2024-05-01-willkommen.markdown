@@ -1,26 +1,22 @@
 ---
 layout: post
-title: "Willkommen auf Tommys ProjektSeite"
-date: 2024-05-01 18:00:00 +0200
-description: Auf dieser Seite stelle ich ein paar meiner Projekte vor.
-img:  # Add image post (optional)
+title: GayToday - Streaming
+date: 2024-05-01 20:10:00 +0200
+description: Der Dienst wurde mittels Icecast2, OpenWRT, BusyBox, DDNS, RaspberryPi, Mixxx und iziCast realisiert.
+img: stream.gaytoday.at.png
+fig-caption: https://Stream.GayToday.at
+tags: [VereinsWesen, GayToday]
 ---
-Auf dieser Seite stelle ich ein paar meiner Projekte vor. Wenn du auf mein `Foto` (links) klickst kommst du wieder zur Startseite.
+Der Dienst wurde mittels Icecast2, OpenWRT, BusyBox, DDNS, RaspberryPi, Mixxx und iziCast realisiert.
+Die dauerhafte Bespielung mittels Playlisten sowie die automatisierten Uebergaben je nach Input sowie individuelle Intros waren eine entscheidende Frage bei der Konzeptionierung.
 
-Diese Seite verwendet MarkDown-Language sowie ein Jekyll-Theme.
+CI/CD wurden selbst entwickelt.
 
-Jekyll also offers powerful support for code snippets:
+## Die Letzte Ueberpruefung
+>... fand am 01. Mai 2024 statt.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+* Die Seite selbst ist fertig und aktuell.
+* Die Kontaktdaten wurden kontrolliert.
+* Das Ergebnis der Delay-Tests ist zufriedenstellend.
+* Es gibt noch ein Problem welches den automatischen Playlist-Start nach einem Stomausfall zeitweise untergraebt.
+* Da manche von A1 vergebenen IPs von einem Backbone in Irland an der Weiterleitung nach Canada gehindert werden ist nicht staendig gewaehrleistet, dass die DDNS-IP-Updates zeitgerecht ankommen.
