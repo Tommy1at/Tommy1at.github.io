@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GayToday - Webseite
-date: 2024-05-01 20:00:00 +0200
+date: 2024-05-02 12:00:00 +0200
 description: Die Seite wurde mit Joomla 4 realisiert.
 img: gaytoday.at.png
 fig-caption: https://GayToday.at
