@@ -1,7 +1,7 @@
 ---
 layout: post
 title: égalité - Webseite
-date: 2024-05-01 19:50:00 +0200
+date: 2024-05-02 08:00:00 +0200
 description: Fuer diese Seite wurde Bootstrap 5 verwendet.
 img: egalite.eu.png
 fig-caption: https://égalité.eu
