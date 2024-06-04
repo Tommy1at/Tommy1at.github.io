@@ -4,10 +4,10 @@ title: Tschardonnay - Webseite
 date: 2024-06-04 07:00:00 +0200
 description: Weinpraesentation in 11ty & Nunjucks.
 img: tschardonnay.eu.png
-fig-caption: https://support.aspeck.net
+fig-caption: https://tschardonnay.eu
 tags: [PrivateProjekte, Tommy]
 ---
-<img src="https://support.aspeck.net/img/favicon/favicon.ico" alt="aspeck[dot]net - Logo">
+<img src="https://support.aspeck.net/img/favicon/favicon.ico" alt="Logo">
 Le vin des trois! :: Tschardonnay
 <br>|<br>
 Weinpraesentation in 11ty & Nunjucks. Der Auftrag ein Projekt mit 11ty und autodeploy on git push zu erstellen
@@ -18,7 +18,7 @@ CI/CD sind noch in Arbeit.
 ## Die Letzte Ueberpruefung
 >... fand am 04. Juni 2024 statt.
 
-* Die Seite ist fertig und aktuell.
+* Die Seite ist soweit fertig und aktuell.
 * Die Kontaktmoeglichkeiten werden noch um ein Impressum ergaenzt.
 * Eine web.dev Ueberpruefung wurde durchgefuehrt und das Ergebnis ist aussergewoehnlich hervorragend.
 * Der Content muss spaeter noch erweitert werden.
