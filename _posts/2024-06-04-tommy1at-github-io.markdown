@@ -14,9 +14,10 @@ Seite basierend auf md, jekyll und git. DerAuch dieser Projektauftrag kam von <a
 Anforderung war eine Seite unter Verwendung von MarkDown-Language und eines Jekyll-Themes zu erstellen. Diese sollte sodann als persoenliche GitHub-Seite verwendet werden.
 
 ## Die Letzte Ueberpruefung
->... fand am 01. Mai 2024 statt.
+>... fand am 04. Juni 2024 statt.
 
 * Die Seite ist fertig und aktuell.
 * Die Kontaktmoeglichkeiten wurden kontrolliert.
 * Eine web.dev Ueberpruefung wurde durchgefuehrt und das Ergebnis ist durchwegs gut.
-* Es sollte ueberlegt werden noch ein Impressum und einen Disclaimer hinzuzufuegen. Der Content wird im Laufe der Zeit ergaenzt.
+* Es sollte ueberlegt werden noch ein Impressum und einen Disclaimer hinzuzufuegen.
+* Der Content wird im Laufe der Zeit ergaenzt.
