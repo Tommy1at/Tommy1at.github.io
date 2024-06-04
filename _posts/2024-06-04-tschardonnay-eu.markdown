@@ -1,16 +1,16 @@
 ---
 layout: post
-title: support@aspeck.net - Webseite
+title: Tschardonnay - Webseite
 date: 2024-06-04 06:00:00 +0200
-description: Ein Ticketing-System mit HESK 3 als Basis.
+description: Weinpraesentation in 11ty & Nunjucks.
 img: tschardonnay.eu.png
 fig-caption: https://support.aspeck.net
 tags: [PrivateProjekte, Tommy]
 ---
 <img src="https://support.aspeck.net/img/favicon/favicon.ico" alt="aspeck[dot]net - Logo">
-aspeck[dot]net :: Support Ticket System
+Le vin des trois! :: Tschardonnay
 <br>|<br>
-Ein Ticketing-System mit HESK 3 als Basis. Wie immer ist die Seite responsive designed, was HESK von sich
+Weinpraesentation in 11ty & Nunjucks. Wie immer ist die Seite responsive designed, was HESK von sich
 aus bereits mitbringt. Hauptaugenmerk wurde auf die Einfachheit der Bedienung gelegt da Support-Kunden manchmal gehemmt sind technische Schwellen zu ueberschreiten.
 
 CI/CD wurden selbst entwickelt.
