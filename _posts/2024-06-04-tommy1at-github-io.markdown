@@ -10,7 +10,7 @@ tags: [PrivateProjekte, Tommy]
 <img src="/assets/img/favicon/favicon.ico" alt="Logo">
 Dominik C. Aspeck :: Vorstellung einiger Projekte
 <br>|<br>
-Seite basierend auf md, jekyll und git. DerAuch dieser Projektauftrag kam von <a href="https://www.senarclens.eu/~gerald/">Gerald</a>.
+Seite basierend auf md, jekyll und git. Auch dieser Projektauftrag kam von <a href="https://www.senarclens.eu/~gerald/">Gerald</a>.
 Anforderung war eine Seite unter Verwendung von MarkDown-Language und eines Jekyll-Themes zu erstellen. Diese sollte sodann als persoenliche GitHub-Seite verwendet werden.
 
 ## Die Letzte Ueberpruefung
