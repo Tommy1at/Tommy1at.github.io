@@ -3,7 +3,7 @@ layout: post
 title: Dominik C. Aspeck - Persoenliche Webseite
 date: 2026-09-10 16:15:00 +0200
 description: Eine persoenlich-professionelle Webseite mit responsiver Gestaltung, Bewegung und optimierter Bildauslieferung.
-img:
+img: dominik.aspeck.net-20260910.jpg
 fig-caption: https://www.dominik.aspeck.net/
 tags:
 - PrivateProjekte
@@ -24,11 +24,10 @@ Bewegung und Interaktionen ergaenzen die blau gepraegte Gestaltung. Kontaktformu
 * Portraetdarstellung vergroessert und die Gestaltung um weitere Bewegung ergaenzt.
 * Mobile Breakpoints und responsive Darstellung angepasst.
 * Responsive WebP-Bilder sowie Caching und Kompression integriert.
-* V26 „Performance“ wurde als Arbeits- und Endstand bestaetigt.
 
-## Vorheriger Stand – August 2026
+## Stand vom Juli 2026
 
-* V23 wurde veroeffentlicht und positiv bestaetigt.
-* Die anschliessende Fassung V25 konzentrierte sich auf die mobile Darstellung.
-* Das Kontaktformular wurde nach Korrekturen als funktionierend bestaetigt.
+* Die Seite war basierend auf Bootstrap.
+* Es wurde ein angepasstes Gilb-Template verwendet.
+* Die Aufmachung und der Inhalt waren allerdings nicht mehr auf dem letzten Stand.
 * Die Social-Media-Leiste blieb Bestandteil der Seite.
