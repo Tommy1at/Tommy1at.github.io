@@ -20,10 +20,9 @@ Git dient der Versionsverwaltung. Ein GitHub-Actions-Workflow erstellt die Webse
 
 ## Weiterentwicklung – September 2026
 
-* Den Beitrag zu GayToday Streaming ueberarbeitet und um die dokumentierten Weiterentwicklungen ergaenzt.
+* Die einzelnen Beitraege zu ueberarbeitet und um die dokumentierten Weiterentwicklungen ergaenzt.
 * Den Build-Workflow an die Ubuntu-24.04-Umgebung angepasst und die verwendeten Ruby-Setup- und Checkout-Actions aktualisiert.
-* Die aktualisierte Streaming-Fassung ist auf der veroeffentlichten Webseite sichtbar.
-* Fuer historische Beitragsfassungen den Ordner old_posts vorgesehen, der vom Jekyll-Build ausgeschlossen wird.
+* Die aktualisierten Beitrags-Fassungen sind auf der veroeffentlichten Webseite sichtbar.
 
 ## Stand vom 04. Juni 2024
 
