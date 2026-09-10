@@ -20,7 +20,7 @@ CI/CD wurden selbst entwickelt.
 
 ## Weiterentwicklung – August 2026
 
-* HESK am 17. August 2026 auf Version 3.7.11 aktualisiert.
+* HESK wurde auf die aktuellste Version aktualisiert und umgebaut.
 * HTTPS und Mehrfaktor-Authentifizierung fuer die Administration verpflichtend eingerichtet.
 * Sicherheitsheader und Zugriffsschutz ueberarbeitet.
 * Kompression, Caching und PHP-Konfiguration angepasst.
