@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unicorns United - Vereinswebseite
+title: Unicorns United - Kunstvereinswebseite
 date: 2026-09-10 16:20:00 +0200
 description: Eine eigenstaendige Kunstvereins-Webseite mit individuell abgestimmtem Hero- und Markenbereich.
 img: unicornsunited.eu-20260910.jpg
@@ -18,6 +18,6 @@ Die Webseite von Unicorns United praesentiert den Verein mit einer eigenen visue
 
 * Die Seite wurde komplett neu entwickelt.
 
-## Stand vom 27. August 2026
+## Stand vom Juli 2026
 
 * Es war lediglich eine Platzhalter-Seite vorhanden.
