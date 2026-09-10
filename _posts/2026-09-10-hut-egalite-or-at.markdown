@@ -14,7 +14,7 @@ Im Zuge der Ueberarbeitung wurden Darstellung, Navigation und responsive Verhalt
 
 Dezente Hover-Effekte und Microinteractions ergaenzen die Bedienung.
 
-CI/CD wurden selbst entwickelt, unter Zuhilfenahme von KI.
+CI/CD wurden selbst entwickelt, teilweise unter Zuhilfenahme von KI.
 
 > Technologien: HTML, CSS, JavaScript, Bootstrap 5, Apache/.htaccess.
 
@@ -24,7 +24,6 @@ CI/CD wurden selbst entwickelt, unter Zuhilfenahme von KI.
 * Menue, Footer und Schrifteinbindung abgestimmt.
 * Dezente Microinteractions und Hover-Effekte ergaenzt.
 * Abschliessendes Hardening durchgefuehrt.
-* Version V7 wurde am 31. August 2026 als Endstand bestaetigt.
 
 ## Stand vom 01. Mai 2024
 
