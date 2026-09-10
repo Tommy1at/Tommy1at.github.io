@@ -11,7 +11,7 @@ image_alt: Dominik C. Aspeck
 
 Auf dieser Seite stelle ich ausgewaehlte private, unternehmerische und vereinsbezogene Projekte vor. Die Beitraege geben Einblicke in die Umsetzung, die eingesetzten Technologien und die Weiterentwicklung.
 
-Ein Klick auf mein Foto fuehrt zur Startseite zurueck.
+Ein Klick auf mein Foto (links) fuehrt zur Startseite zurueck.
 
 Die Webseite verwendet Markdown und ein Jekyll-Theme. Die Inhalte werden mit Git versioniert und ueber GitHub Pages veroeffentlicht.
 
