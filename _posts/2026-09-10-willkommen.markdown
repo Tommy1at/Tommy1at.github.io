@@ -3,7 +3,10 @@ layout: post
 title: "Willkommen auf Tommys ProjektSeite"
 date: 2026-09-10 07:00:00 +0200
 description: Ausgewaehlte Projekte aus Webentwicklung, Technik und Vereinsarbeit.
-img:
+img: aboutme-2-2.webp
+pinned: true
+image_fit: contain
+image_alt: Dominik C. Aspeck
 ---
 
 Auf dieser Seite stelle ich ausgewaehlte private, unternehmerische und vereinsbezogene Projekte vor. Die Beitraege geben Einblicke in die Umsetzung, die eingesetzten Technologien und die Weiterentwicklung.
