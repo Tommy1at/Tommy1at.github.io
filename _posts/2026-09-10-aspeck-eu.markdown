@@ -1,0 +1,27 @@
+---
+layout: post
+title: Aspeck GmbH - Webseite
+date: 2026-09-10 08:00:00 +0200
+description: Eine statische Unternehmenswebseite fuer Industrie- und Wohnbau sowie Sanierung.
+img: aspeck.eu-20260910.jpg
+fig-caption: https://aspeck.eu
+tags: [UnternehmensProjekte, Aspeck GmbH]
+---
+
+Die Webseite der Aspeck GmbH wurde als statische HTML-Seite fuer die Bereiche Industrie- und Wohnbau sowie Sanierung umgesetzt.
+
+Das urspruengliche Webprojekt wurde abgeschlossen. Nach dem Ende der Unternehmenstaetigkeit wurde die Seite auf einen Platzhalter reduziert und das Kontaktformular entfernt. Das Impressum blieb laut damaligem Projektstand erhalten.
+
+> Technologien: HTML.
+
+## Dokumentationsstand – September 2026
+
+* Die Projektbeschreibung wurde redaktionell ueberarbeitet.
+* Fuer dieses abgeschlossene Projekt liegt hier kein neuerer bestaetigter technischer Stand als Mai 2024 vor.
+
+## Stand vom 01. Mai 2024
+
+* Die Seite ist fertig.
+* Das Kontaktformular wurde entfernt (Impressum ist vorhanden).
+* Eine web.dev Ueberpruefung wurde durchgefuehrt und das Ergebnis ist recht zufriedenstellend.
+* Projekt ist abgeschlossen.

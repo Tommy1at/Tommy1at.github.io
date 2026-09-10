@@ -1,0 +1,29 @@
+---
+layout: post
+title: Tommy 1 - Webseite
+date: 2026-09-10 09:10:00 +0200
+description: Eine persoenliche WordPress-Webseite fuer Einblicke, Erlebnisse und Interessen.
+img: tommy1.eu.png
+fig-caption: https://Tommy1.eu
+tags: [PrivateProjekte, Tommy]
+---
+
+Tommys persoenliche Webseite wurde mit WordPress umgesetzt. Sie bietet Raum fuer Einblicke in das eigene Leben sowie fuer Themen wie Wanderungen, Wein und Veranstaltungen.
+
+Die Gestaltung beruecksichtigt unterschiedliche Bildschirmgroessen. Neben der Pflege der Inhalte gehoeren die technische Wartung und die Absicherung der WordPress-Installation zum Projekt.
+
+> Technologien: WordPress, PHP, HTML, CSS, JavaScript.
+
+## Weiterentwicklung – Sommer 2026
+
+* WordPress-Dateien und Plugins im Zuge der Bereinigung mittels Pruefsummen kontrolliert.
+* Nicht benoetigte beziehungsweise problematische Plugins entfernt.
+* Administrationskonten bereinigt und den Anmeldeschutz ueberarbeitet.
+* Der redaktionelle Aktualisierungsstand der Inhalte wurde dabei nicht neu bestaetigt.
+
+## Stand vom 01. Mai 2024
+
+* Die Seite selbst ist fertig jedoch der Content nicht aktuell.
+* Das Kontaktformular musste verborgen werden da die Domain offenbar recht prominent ist.
+* Eine web.dev Ueberpruefung wurde durchgefuehrt und das Ergebnis ist recht zufriedenstellend.
+* Der Content muesste regelmaessig aktualisiert werden.

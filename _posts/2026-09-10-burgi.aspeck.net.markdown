@@ -1,0 +1,29 @@
+---
+layout: post
+title: Burgis PhotoGalerie - Webseite
+date: 2026-09-10 08:10:00 +0200
+description: Eine private Fotogalerie mit Piwigo, strukturiertem Medienarchiv und abgestuften Zugriffsrechten.
+img: burgi.aspeck.net-20260910.jpg
+fig-caption: https://burgi.aspeck.net
+tags: [PrivateProjekte, Erinnerung an Burgi]
+---
+
+Burgis PhotoGalerie ist ein privates Medienarchiv auf Basis von Piwigo. Im Mittelpunkt stehen die Aufbereitung mehrerer tausend Fotos und die nachvollziehbare Zuordnung zu Personen, Ereignissen und Aufnahmeorten.
+
+Fotos unterschiedlicher Formate, Aufloesungen und Groessen wurden harmonisiert und optimiert. Ergaenzende Personenangaben, Hotspots und Wasserzeichen unterstuetzen die Erschliessung des Bestands. Die Katalogisierung beruecksichtigt Aufnahmezeitpunkte und, soweit bekannt, Aufnahmeorte.
+
+Die Benutzerverwaltung regelt den Zugriff auf die privaten Inhalte. Ergaenzend wurden Funktionen zum Herunterladen, Teilen, Bewerten und Kommentieren integriert.
+
+> Technologien: Piwigo, PHP, rollenbasierte Medienfreigaben.
+
+## Weiterentwicklung – Juli 2026
+
+* Eine manipulierte Galerie-Datei wurde aus einer Sicherung wiederhergestellt.
+* Die Wiederherstellung wurde anschliessend ueberprueft.
+
+## Stand vom 01. Mai 2024
+
+* Die Seite ist fertig.
+* Das Kontaktformular findet sich im privaten Bereich (private Seite).
+* Eine web.dev Ueberpruefung wurde durchgefuehrt und das Ergebnis ist sehr zufriedenstellend.
+* Projekt ist abgeschlossen.
