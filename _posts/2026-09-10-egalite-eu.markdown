@@ -22,7 +22,6 @@ CI/CD wurden selbst entwickelt.
 * Performance, Barrierefreiheit und Suchmaschinen-Grundlagen verbessert.
 * Partnerdarstellung, Popup und Footer angepasst.
 * Sicherheitsheader und HTTPS-Konfiguration ergaenzt und ueberprueft.
-* Der am 25. August 2026 bestaetigte Stand dient als Referenzbasis fuer weitere Aenderungen.
 
 ## Stand vom 01. Mai 2024
 
