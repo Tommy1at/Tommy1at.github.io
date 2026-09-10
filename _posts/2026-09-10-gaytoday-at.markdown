@@ -22,6 +22,7 @@ CI/CD wurden selbst entwickelt, unter Zuhilfenahme von KI.
 
 * Einstellungen fuer Benutzerregistrierung und Administrationszugriff bearbeitet.
 * Probleme im Datenbankschema behoben.
+* Erweiterung um Mehrsprachigkeit.
 * Performance und Sicherheitskonfiguration weiterbearbeitet.
 * Die PHP-Handler-Konfiguration wurde korrigiert; die erfolgreiche Umstellung wurde bestaetigt.
 
