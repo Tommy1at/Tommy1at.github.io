@@ -14,6 +14,8 @@ Die Webseite von United Unicorns ist als Onepager fuer einen Sportverein angeleg
 
 > Umsetzungsschwerpunkte: Onepager, responsive Webgestaltung, Hero- und Logo-Integration.
 
+> Technologien: HTML5, CSS3, JavaScript, SVG und WebP.
+
 ## Weiterentwicklung – August 2026
 
 * Die Seite wurde komplett neu entwickelt.
