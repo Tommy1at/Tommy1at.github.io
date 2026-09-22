@@ -17,7 +17,7 @@ Die Gestaltung wird durch eine grossflaechige Bildkulisse und einen zentralen In
 
 Die Eventseite bietet Raum fuer Ankuendigungen und zeigt Rueckblicke auf fruehere Veranstaltungen.
 
-> Technologien: Joomla 6, PHP, HTML, CSS, JavaScript, angepasstes Template (blife01), Flickr-Einbindung.
+> Technologien: Joomla 6, PHP, HTML, CSS, JavaScript, angepasstes Template (blife01), Flickr-Einbindung, Meta-Einbindung.
 
 > Umsetzungsschwerpunkte: Vereinsdarstellung, Veranstaltungsuebersicht, Flickr-Galerie, Social-Media-Einbindung.
 
