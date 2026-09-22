@@ -14,6 +14,8 @@ Die Webseite von Unicorns United praesentiert den Verein mit einer eigenen visue
 
 > Umsetzungsschwerpunkte: Webdesign, Hero-Gestaltung, Logo-Integration, Favicons.
 
+> Technologien: HTML5, CSS3, JavaScript, SVG und lokal eingebundene Webfonts (WOFF2).
+
 ## Weiterentwicklung – August 2026
 
 * Die Seite wurde komplett neu entwickelt.
